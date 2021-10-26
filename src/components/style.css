@@ -1,0 +1,8 @@
+.task-item {
+  user-select: none;
+  cursor: pointer;
+}
+
+.task-item.sub-item {
+  padding-left: 10px;
+}
